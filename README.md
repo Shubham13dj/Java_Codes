@@ -1,6 +1,12 @@
 # Java_Codes
 # Java_Codes
-* Advance Java Patterns
+*Simple Patterns
+   - Pattern1
+     ```****
+        ****
+        ****
+        ****```
+* Advance Patterns
    - Pattern1
    - Pattern2
    - Pattern3
