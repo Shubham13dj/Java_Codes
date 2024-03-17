@@ -2,10 +2,10 @@
 # Java_Codes
 *Simple Patterns
    - Pattern1
-     ```****
-        ****
-        ****
-        **** ```
+    ```****
+       ****
+       ****
+       ****```
 * Advance Patterns
    - Pattern1
    - Pattern2
