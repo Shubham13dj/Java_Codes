@@ -64,7 +64,7 @@
       0101
       ```
 
-* Advance Patterns
+* <a href="java_advance_pattern">Advance Patterns</a>
    - Pattern1
       ```
          ****
@@ -108,16 +108,17 @@
         ***
          *
       ```
-* Recursion Programs
+* <a href="">Recursion Programs</a>
    - Factorial Of number
    - Fibonanci Series
    - Printing number from 1 to 5
    - Printing number from 5 to 1
    - Printing x^n
    - Calculating sum of n natural numbers
-* Sorting Programs 
+* <a href="java_recursion_programs">Sorting Programs
+</a>
    - Bubble Sort
    - Selection Sort
-* String Patterns
+* <a href="java_string_pattern">String Patterns</a>
    - Checking Palindrome String
    - Reverse string 
