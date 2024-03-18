@@ -1,5 +1,5 @@
 # Java_Codes
-* <a href="Shubham13dj/Java_Codes/java_simple_pattern"> Simple Patterns</a>
+* <a href="java_simple_pattern"> Simple Patterns</a>
    - Pattern1
       ```
       ****
