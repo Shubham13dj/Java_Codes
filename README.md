@@ -116,7 +116,7 @@
    - Printing x^n
    - Calculating sum of n natural numbers
 * <a href="java_recursion_programs">Sorting Programs
-</a>
+  </a>
    - Bubble Sort
    - Selection Sort
 * <a href="java_string_pattern">String Patterns</a>
